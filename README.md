@@ -99,26 +99,20 @@ Step14. click on debug and simulate using simulation as shown below
 
 
 
-
-
-## Output screen shots of proteus  :
- 
- 
- ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
 FOR PULSE AT 500
 
-TON = 
-TOFF=
+TON = 0.5
+TOFF=3.5
 TOTAL TIME = 
 FREQUENCY = 1/(TOTAL TIME)
 
 FOR PULSE AT 700
 
-TON = 
-TOFF=
+TON = 3.0
+TOFF=3.2
 TOTAL TIME = 
 FREQUENCY = 1/(TOTAL TIME)
 
