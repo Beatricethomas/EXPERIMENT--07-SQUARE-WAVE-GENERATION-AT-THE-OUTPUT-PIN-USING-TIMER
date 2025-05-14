@@ -355,36 +355,47 @@ void assert_failed(uint8_t *file, uint32_t line)
  <img width="647" alt="image" src="https://github.com/user-attachments/assets/17579ae2-e7ef-4ade-a1c6-c4908d87da4a" />
 
  ## Output screen shot : 
-
+### 50%:
 ![WhatsApp Image 2025-05-12 at 14 33 51_bf5e7ce4](https://github.com/user-attachments/assets/dea3c33c-823a-461a-8522-c2dd5174ec44)
 
+### 70%:
 ![WhatsApp Image 2025-05-12 at 14 31 34_cae900a1](https://github.com/user-attachments/assets/0b15702f-800b-428c-a485-f8f14767586c)
 
+### 90%:
 ![WhatsApp Image 2025-05-12 at 14 23 28_68b55541](https://github.com/user-attachments/assets/5d112125-7153-4ec1-96f4-eeb81a7463ca)
 
 
 ## DUTY CYCLE AND FREQUENCY CALCULATION 
-FOR PULSE AT 500
+### FOR PULSE AT 500
 
 TON = 0.5
-TOFF=3.5
-TOTAL TIME = 4
-FREQUENCY = 1/(TOTAL TIME) = 
 
-FOR PULSE AT 700
+TOFF=3.5
+
+TOTAL TIME = 4
+
+FREQUENCY = 1/(TOTAL TIME) = 0.25
+
+### FOR PULSE AT 700
 
 TON = 3.0
+
 TOFF=3.2
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+
+TOTAL TIME = 6.2
+
+FREQUENCY = 1/(TOTAL TIME)= 0.161
 
 
-FOR PULSE AT 900
+### FOR PULSE AT 900
 
 TON = 0.8
+
 TOFF=7.4
-TOTAL TIME = 
-FREQUENCY = 1/(TOTAL TIME)
+
+TOTAL TIME = 8.2
+
+FREQUENCY = 1/(TOTAL TIME)= 1.21
 
 
 ## Result :
